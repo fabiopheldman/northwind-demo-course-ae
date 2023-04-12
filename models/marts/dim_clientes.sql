@@ -12,7 +12,7 @@ WITH
             , endereco_cliente
             , cep_cliente
             , cidade_cliente
-            , regiao_clienteDB
+            , regiao_cliente
             , pais_cliente
         FROM clientes
     )
